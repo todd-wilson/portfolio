@@ -23,7 +23,8 @@ Created a predictive model to determine if a customer is likely to stop using a 
 **Skills:**
 * Exploratory Data Analysis (EDA)
 * Random Forest
-* Bagging, Boosting
+* Bagging
+* Boosting
 * SMOTE
 * Cross-Validation
 * Data Preprocessing
