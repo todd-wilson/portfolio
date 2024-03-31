@@ -1,7 +1,7 @@
 # Machine Learning and Artificial Intelligence Academic Portfolio
 
 ## Computer Vision
-### [Bank Churn Prediction]()
+### [Bank Churn Prediction](https://github.com/todd-wilson/portfolio/blob/main/bank-churn-prediction/Bank-Churn-Prediction.ipynb)
 Plant Seedling Classification (coming soon)
 
 ## Deep Neural Networks
