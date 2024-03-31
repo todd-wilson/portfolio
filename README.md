@@ -1,11 +1,11 @@
 # Machine Learning and Artificial Intelligence Academic Portfolio
 
 ## Computer Vision
-### [Bank Churn Prediction](https://github.com/todd-wilson/portfolio/blob/main/bank-churn-prediction/Bank-Churn-Prediction.ipynb)
+### 
 Plant Seedling Classification (coming soon)
 
 ## Deep Neural Networks
-###  [Bank Churn Prediction](www.google.com)
+###  [Bank Churn Prediction](https://github.com/todd-wilson/portfolio/blob/main/bank-churn-prediction/Bank-Churn-Prediction.ipynb)
 Built an artificial neural network to help the operations team at a bank identify customers who are likely to churn.
 <br>
 <br>
