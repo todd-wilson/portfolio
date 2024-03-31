@@ -1,6 +1,7 @@
 # Machine Learning and Artificial Intelligence Academic Portfolio
 
-## [Bank Churn Prediction]()
+## Computer Vision
+### [Bank Churn Prediction]()
 Plant Seedling Classification (coming soon)
 
 ## Deep Neural Networks
