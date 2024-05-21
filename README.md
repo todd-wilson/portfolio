@@ -1,8 +1,28 @@
 # Machine Learning and Artificial Intelligence Academic Portfolio
 
-## Computer Vision
+## Natural Language Processing
 ### 
-Plant Seedling Classification (coming soon)
+Developed a support ticket categorization system that accurately classifies incoming tickets, assigns relevant tags based on their content, and assigns priority and ETA for the tickets for prompt resolution.
+<br>
+<br>
+**Skills:**
+* Large Language Models
+* Transformers
+* Prompt Engineering
+* Exploratory Data Analysis
+* Data Manipulation
+
+## Computer Vision
+### [Bank Churn Prediction](https://github.com/todd-wilson/portfolio/blob/main/plant-seedling-classification/Plant-Seedling-Classification.ipynb)
+Built an image classifier using CNNs to efficiently classify different plant seedlings and weeds to improve crop yields and minimize human involvement.
+<br>
+<br>
+**Skills:**
+* Image Processing
+* Keras
+* Tensorflow
+* Convolutional Neural Networks
+* Transfer Learning
 
 ## Deep Neural Networks
 ###  [Bank Churn Prediction](https://github.com/todd-wilson/portfolio/blob/main/bank-churn-prediction/Bank-Churn-Prediction.ipynb)
