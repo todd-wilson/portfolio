@@ -36,7 +36,7 @@ Built an artificial neural network to help the operations team at a bank identif
 * Google Colab
 
 ## Advanced Machine Learning
-### [Credit Card User Churn Prediction](https://github.com/todd-wilson/portfolio/blob/main/credit-card-churn-prediciton/Credit-Card-Churn-Prediction.ipynb)
+### [Credit Card User Churn Prediction](https://github.com/todd-wilson/portfolio/blob/main/credit-card-churn-prediction/Credit-Card-Churn-Prediction.ipynb)
 Created a predictive model to determine if a customer is likely to stop using a credit card service or not and the reason behind it.
 <br>
 <br>
@@ -51,7 +51,7 @@ Created a predictive model to determine if a customer is likely to stop using a 
 * Hyperparameter Tuning
 
 ## Machine Learning
-### [Personal Loan Campaign]([www.google.com](https://github.com/todd-wilson/portfolio/blob/main/personal-loan-campaign/Personal-Loan-Campaign.ipynb))
+### [Personal Loan Campaign](https://github.com/todd-wilson/portfolio/blob/main/personal-loan-campaign/Personal-Loan-Campaign.ipynb))
 Created a predictive model to identify bank customers who were likely to purchase a loan.
 <br>
 <br>
