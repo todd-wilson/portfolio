@@ -1,7 +1,7 @@
 # Machine Learning and Artificial Intelligence Academic Portfolio
 
 ## Natural Language Processing
-### 
+### [Support Ticket Categorization](https://github.com/todd-wilson/portfolio/blob/main/support-ticket-categorization/Support_Ticket_Categorization.ipynb)
 Developed a support ticket categorization system that accurately classifies incoming tickets, assigns relevant tags based on their content, and assigns priority and ETA for the tickets for prompt resolution.
 <br>
 <br>
@@ -36,7 +36,7 @@ Built an artificial neural network to help the operations team at a bank identif
 * Google Colab
 
 ## Advanced Machine Learning
-### [Credit Card User Churn Prediction](www.google.com)
+### [Credit Card User Churn Prediction](https://github.com/todd-wilson/portfolio/blob/main/credit-card-churn-prediciton/Credit-Card-Churn-Prediction.ipynb)
 Created a predictive model to determine if a customer is likely to stop using a credit card service or not and the reason behind it.
 <br>
 <br>
@@ -51,7 +51,7 @@ Created a predictive model to determine if a customer is likely to stop using a 
 * Hyperparameter Tuning
 
 ## Machine Learning
-### [Personal Loan Campaign](www.google.com)
+### [Personal Loan Campaign]([www.google.com](https://github.com/todd-wilson/portfolio/blob/main/personal-loan-campaign/Personal-Loan-Campaign.ipynb))
 Created a predictive model to identify bank customers who were likely to purchase a loan.
 <br>
 <br>
@@ -64,7 +64,7 @@ Created a predictive model to identify bank customers who were likely to purchas
 * Business Recommendations
 
 ## Exploratory Data Analysis Using Python
-### [Foodhub Project](www.google.com)
+### [Foodhub Project](https://github.com/todd-wilson/portfolio/blob/main/foodhub-project/Foodhub-EDA.ipynb)
 Performed exploratory data analysis to derive actionable insights for a food aggregator company. The analysis provided recommendations on different restaurants and cuisines to help them enhance their customer experience.
 <br>
 <br>
