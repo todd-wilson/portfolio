@@ -13,7 +13,7 @@ Developed a support ticket categorization system that accurately classifies inco
 * Data Manipulation
 
 ## Computer Vision
-### [Bank Churn Prediction](https://github.com/todd-wilson/portfolio/blob/main/plant-seedling-classification/Plant-Seedling-Classification.ipynb)
+### [Plant Seedling Classification](https://github.com/todd-wilson/portfolio/blob/main/plant-seedling-classification/Plant-Seedling-Classification.ipynb)
 Built an image classifier using CNNs to efficiently classify different plant seedlings and weeds to improve crop yields and minimize human involvement.
 <br>
 <br>
