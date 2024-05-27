@@ -1,7 +1,7 @@
 # Machine Learning and Artificial Intelligence Academic Portfolio
 
 ## Natural Language Processing
-### [Support Ticket Categorization](https://github.com/todd-wilson/portfolio/blob/main/support-ticket-categorization/Support_Ticket_Categorization.ipynb)
+### [Support Ticket Categorization](https://github.com/todd-wilson/portfolio/blob/main/support-ticket-categorization/Support-Ticket-Categorization.ipynb)
 Developed a support ticket categorization system that accurately classifies incoming tickets, assigns relevant tags based on their content, and assigns priority and ETA for the tickets for prompt resolution.
 <br>
 <br>
