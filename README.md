@@ -51,7 +51,7 @@ Created a predictive model to determine if a customer is likely to stop using a 
 * Hyperparameter Tuning
 
 ## Machine Learning
-### [Personal Loan Campaign](https://github.com/todd-wilson/portfolio/blob/main/personal-loan-campaign/Personal-Loan-Campaign.ipynb))
+### [Personal Loan Campaign](https://github.com/todd-wilson/portfolio/blob/main/personal-loan-campaign/Personal-Loan-Campaign.ipynb)
 Created a predictive model to identify bank customers who were likely to purchase a loan.
 <br>
 <br>
