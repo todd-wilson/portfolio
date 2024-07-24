@@ -1,0 +1,7 @@
+{
+	"name": "self-hosted-ir",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "SHIR to connect to on-premise sql server database (Adventure Works LT 2017)"
+	}
+}
