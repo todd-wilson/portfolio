@@ -1,5 +1,5 @@
 {
-	"name": "SqlServer_address",
+	"name": "SqlDBTables",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "SqlServerOnPrem",
