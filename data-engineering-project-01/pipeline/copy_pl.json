@@ -97,7 +97,14 @@
 							"outputs": [
 								{
 									"referenceName": "ParquetTables",
-									"type": "DatasetReference"
+									"type": "DatasetReference",
+									"parameters": {
+										"SchemanName": {
+											"value": "@item().SchemaName",
+											"type": "Expression"
+										},
+										"TableName": "@item().TableName"
+									}
 								}
 							]
 						}
