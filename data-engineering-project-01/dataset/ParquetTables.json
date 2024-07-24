@@ -1,5 +1,5 @@
 {
-	"name": "address_parquet",
+	"name": "ParquetTables",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",
