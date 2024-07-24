@@ -1,0 +1,7 @@
+{
+	"name": "copy_pl",
+	"properties": {
+		"description": "Copies on-prem SQL Server tables to adls gen2.",
+		"annotations": []
+	}
+}
