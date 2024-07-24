@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-de-project24601"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://portfoliodl24601.dfs.core.windows.net/"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://kv-de-porfolio24601.vault.azure.net/"
+		},
+		"SqlServerOnPrem_properties_typeProperties_server": {
+			"value": "DESKTOP-P3E33LO"
+		},
+		"SqlServerOnPrem_properties_typeProperties_database": {
+			"value": "AdventureWorksLT2017"
+		},
+		"SqlServerOnPrem_properties_typeProperties_userName": {
+			"value": "trw"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
