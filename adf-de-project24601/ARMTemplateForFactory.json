@@ -142,10 +142,13 @@
 											"type": "DatasetReference",
 											"parameters": {
 												"SchemanName": {
-													"value": "@item().SchemaName",
+													"value": "@{item().SchemaName}",
 													"type": "Expression"
 												},
-												"TableName": "@item().TableName"
+												"TableName": {
+													"value": "@{item().TableName}",
+													"type": "Expression"
+												}
 											}
 										}
 									]
@@ -191,7 +194,7 @@
 							"type": "Expression"
 						},
 						"folderPath": {
-							"value": "@ {concat(dataset().SchemanName, '/', dataset().TableName)}",
+							"value": "@{concat(dataset().SchemanName, '/', dataset().TableName)}",
 							"type": "Expression"
 						},
 						"fileSystem": "bronze"
@@ -216,10 +219,7 @@
 				"annotations": [],
 				"type": "SqlServerTable",
 				"schema": [],
-				"typeProperties": {
-					"schema": "SalesLT",
-					"table": "Address"
-				}
+				"typeProperties": {}
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/linkedServices/SqlServerOnPrem')]"
